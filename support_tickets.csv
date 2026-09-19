@@ -1,0 +1,53 @@
+ticket_id,customer_name,category,priority,status,assigned_agent,resolution_time
+1,Aarav Sharma,Payment,High,Resolved,Priya,45
+2,Diya Patel,Technical,Critical,Open,Rahul,120
+3,Kabir Mehta,Login,Medium,Closed,Sneha,30
+4,Ananya Joshi,Course,Low,Resolved,Amit,20
+5,Rohan Gupta,Refund,High,In Progress,Priya,75
+6,Isha Shah,Account,Medium,Resolved,Neha,40
+7,Vivaan Rao,Payment,Critical,Closed,Rahul,180
+8,Myra Kulkarni,Technical,High,Resolved,Amit,95
+9,Arjun Desai,Login,Low,Open,Sneha,15
+10,Sara Khan,Course,Medium,Resolved,Neha,50
+11,Aditya Nair,Refund,Critical,Closed,Priya,210
+12,Kiara Singh,Account,High,In Progress,Rahul,65
+13,Reyansh Verma,Payment,Medium,Resolved,Amit,55
+14,Aanya Iyer,Technical,Low,Closed,Neha,35
+15,Vivaan Joshi,Login,High,Resolved,Sneha,70
+16,Meera Shah,Course,Critical,Open,Priya,160
+17,Atharv Patil,Refund,Medium,Resolved,Rahul,85
+18,Saanvi More,Account,Low,Closed,Amit,25
+19,Dhruv Kapoor,Payment,High,In Progress,Neha,110
+20,Anvi Bansal,Technical,Medium,Resolved,Sneha,60
+21,Ishaan Jain,Login,Critical,Closed,Priya,145
+22,Navya Sethi,Course,High,Resolved,Rahul,90
+23,Yash Malhotra,Refund,Low,Open,Amit,30
+24,Tara Rao,Account,Medium,Resolved,Neha,45
+25,Aarush Bose,Payment,Critical,Resolved,Sneha,240
+26,Riya Chawla,Technical,High,Closed,Priya,100
+27,Vihaan Kulkarni,Login,Medium,In Progress,Rahul,80
+28,Nisha Agarwal,Course,Low,Resolved,Amit,25
+29,Kunal Deshmukh,Refund,High,Closed,Neha,130
+30,Pihu Mehta,Account,Critical,Open,Sneha,170
+31,Samarth Pawar,Payment,Medium,Resolved,Priya,65
+32,Avni Joshi,Technical,Low,Closed,Rahul,40
+33,Rudra Singh,Login,High,Resolved,Amit,75
+34,Ira Shah,Course,Medium,In Progress,Neha,115
+35,Manav Gupta,Refund,Critical,Resolved,Sneha,200
+36,Aditi Nair,Account,Low,Closed,Priya,35
+37,Parth Patil,Payment,High,Open,Rahul,125
+38,Mahi Verma,Technical,Medium,Resolved,Amit,55
+39,Dev Iyer,Login,Critical,Closed,Neha,155
+40,Rhea Kapoor,Course,High,Resolved,Sneha,85
+41,Aryan Shah,Refund,Low,Open,Priya,20
+42,Shanaya Rao,Account,Medium,Resolved,Rahul,50
+43,Vedant Jain,Payment,Critical,Closed,Amit,225
+44,Siya Bansal,Technical,High,Resolved,Neha,105
+45,Ansh Malhotra,Login,Medium,In Progress,Sneha,90
+46,Kavya Sethi,Course,Low,Closed,Priya,30
+47,Harsh Desai,Refund,High,Resolved,Rahul,140
+48,Tanvi More,Account,Critical,Open,Amit,165
+49,Om Kapoor,Payment,Medium,Resolved,Neha,70
+50,Zoya Khan,Technical,High,Closed,Sneha,125
+51,Nakul Rao,Login,Low,Resolved,Priya,35
+52,Suhani Mehta,Course,Critical,Resolved,Rahul,190

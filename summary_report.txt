@@ -1,0 +1,41 @@
+Total tickets: 52
+
+Tickets by category:
+  Account: 8
+  Course: 9
+  Login: 9
+  Payment: 9
+  Refund: 8
+  Technical: 9
+
+Tickets by priority:
+  Critical: 12
+  High: 15
+  Low: 11
+  Medium: 14
+
+Tickets by status:
+  Closed: 14
+  In Progress: 6
+  Open: 8
+  Resolved: 24
+
+Average resolution time: 92.21 minutes
+
+Average resolution time per category:
+  Account: 74.38 minutes
+  Course: 85.00 minutes
+  Login: 77.22 minutes
+  Payment: 123.89 minutes
+  Refund: 111.25 minutes
+  Technical: 81.67 minutes
+
+Tickets handled by each agent:
+  Amit: 10
+  Neha: 10
+  Priya: 11
+  Rahul: 11
+  Sneha: 10
+
+Tickets taking maximum resolution time:
+  Ticket #25 - Aarush Bose - 240.0 minutes
